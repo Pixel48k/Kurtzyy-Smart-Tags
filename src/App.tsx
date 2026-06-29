@@ -1733,7 +1733,7 @@ export default function App() {
                           size={110}
                           level="H"
                           includeMargin={false}
-                          className="rounded-lg"
+                          className="rounded-none"
                         />
                         <span className="text-[9px] font-mono text-slate-400 font-bold mt-1.5 uppercase select-none">
                           Scan to Test
